@@ -1,2 +1,25 @@
-# MailMergeWeb
-This web app lets you send personalized emails to multiple recipients with ease. Just upload a list of names and email addresses, and it automatically customizes each message with the recipient’s name. Perfect for bulk emails, newsletters, and campaigns—no more manual editing, just efficient, personal outreach.
+💌 MailMerge
+MailMerge makes sending personalized emails to many recipients fast, easy, and efficient! 🚀
+
+🔍 What Is MailMerge?
+MailMerge is a smart web app that lets you upload a list of names and email addresses, then automatically sends customized emails to each recipient. No more manual editing—just click and send! ✉️
+
+💡 Key Features
+📥 Upload contact lists (CSV or formatted text)
+
+🧠 Auto-inserts names into each message
+
+📤 Send bulk emails with a personal touch
+
+⏳ Save time, reduce errors
+
+🛠️ Easy-to-use and intuitive interface
+
+🎯 Perfect For
+📢 Email marketing campaigns
+
+🎟️ Event invitations
+
+🧑‍💼 Client or customer outreach
+
+🎊 Announcements to friends or teams
