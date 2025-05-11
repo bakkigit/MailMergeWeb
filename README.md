@@ -21,3 +21,7 @@ MailMerge is a smart web app that lets you upload a list of names and email addr
 ---
 
 Make your emails **feel personal**, not like mass mail. With **MailMerge**, your outreach is faster, smarter, and more human. 💫
+
+![Mail1](https://github.com/user-attachments/assets/41d62691-280e-4746-a3ad-293971e7980b)
+
+![Mail2](https://github.com/user-attachments/assets/c605fb84-c264-4c31-b5a6-e381521a4f2c)
